@@ -1,7 +1,7 @@
 # Barclay & Trimarchi's Clothing Emporium
 
 The modern outfitters' solution. The front-end of a clothing e-commerce website.
-Visible at: https://adb-barclay-trimarchi-emporium.herokuapp.com/
+*Visible at: https://adb-barclay-trimarchi-emporium.herokuapp.com/
 
 ## Requirements
 
